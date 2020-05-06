@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.container{
+    
+    text-align: center;
+}
+/* #connected_users{
+    align-content: flex-start;
+}
+#messages{
+    align-content: flex-end;
+} */
+.global{
+    width: 100%;
+}
